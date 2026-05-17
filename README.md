@@ -1,6 +1,6 @@
 # Hi, I'm Beda Rath 👋
 
-### Senior Product Manager · Platforms, XR & AI
+### Senior Product Manager · Platforms, XR, IOT & AI
 
 ![Open to Opportunities](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-009d7a?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-14%2B_Years-5b3fd4?style=flat-square)
