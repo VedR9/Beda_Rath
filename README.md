@@ -4,7 +4,7 @@
 
 ![Open to Opportunities](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-009d7a?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-14%2B_Years-5b3fd4?style=flat-square)
-![Qualcomm](https://img.shields.io/badge/Ex-Qualcomm-0066CC?style=flat-square&logo=qualcomm&logoColor=white)
+[Qualcomm](https://img.shields.io/badge/Ex-Qualcomm-0066CC?style=flat-square&logo=qualcomm&logoColor=white)
 
 > **14+ years** at Qualcomm delivering **10+ Tier-1 OEM design wins** for partners like Meta, Samsung, and HTC.
 
