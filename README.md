@@ -31,8 +31,8 @@ I'm a Senior Product Manager with a career defined by data-driven decision-makin
 | Project | Role | Impact | Status |
 |---|---|---|---|
 | [**Zomato AI Recommendation**](https://github.com/VedR9/ZomatoAIRecommendedTop5Restaurants) | Lead PM & Developer | Reduced recommendation latency to <3s for 1k+ data points. | ✅ Live |
+| [**Groww Mutual Fund RAG Assistant**](https://groww-mf-rag-assistant.vercel.app/) | PM & Engineer | RAG-powered mutual fund discovery and Q&A assistant. | ✅ Live |
 | [**Groww Weekly Digest**](https://github.com/VedR9/GROWW_Weekly_Review_Pulse) | PM & Engineer | Automated Play Store review intelligence using Map-Reduce LLM pipelines. | ✅ Live |
-| **Groww Mutual Fund RAG Assistant** | PM & Engineer | RAG-powered mutual fund discovery and Q&A assistant. | ⚙️ In Progress |
 | **Automations & Multi-Agent Systems** | Lead Developer | Multi-agent orchestration pipelines for real-world automation. | ⚙️ In Progress |
 
 ---
