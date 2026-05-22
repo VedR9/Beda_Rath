@@ -18,7 +18,7 @@ I'm a Senior Product Manager with a career defined by data-driven decision-makin
 
 | | |
 |---|---|
-| 🏆 **Product Strategist** | Rank-1 Top Fellow at NextLeap; expert in JTBD, KPI mapping, and GTM strategy. |
+| 🏆 **Product Strategist** | Top Fellow at NextLeap; expert in JTBD, KPI mapping, and GTM strategy. |
 | 🛠️ **Technical Builder** | Hands-on with Python, FastAPI, and LLM orchestration (Groq, Gemini). |
 | 🤝 **Collaborative Leader** | Proven track record leading cross-functional teams across global locations to drive product-market fit. |
 
