@@ -1,4 +1,4 @@
-# Hi, I'm Beda Rath 👋
+# Hi, I'm Beda Rath (Ved) 👋
 
 ### Senior Product Manager · Platforms, XR, IOT & AI
 
