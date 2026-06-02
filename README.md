@@ -33,7 +33,7 @@ I'm a Senior Product Manager with a career defined by data-driven decision-makin
 | [**Zomato AI Recommendation**](https://github.com/VedR9/ZomatoAIRecommendedTop5Restaurants) | Lead AI Product Manager | Reduced recommendation latency to <3s for 1k+ data points. | ✅ Live |
 | [**Groww Mutual Fund RAG Assistant**](https://github.com/VedR9/groww-mf-rag-assistant) | Technical Product Manager | RAG-powered mutual fund discovery and Q&A assistant. | ✅ Live |
 | [**GROWW PM Analytics Dashboard**](https://github.com/VedR9/GROWW_Weekly_Review_Pulse) | Senior Product Manager | Serverless AI pipeline & zero-maintenance React dashboard featuring Crash Alerts & AI Feature Radar. | ✅ Live |
-| **Automations & Multi-Agent Systems** | Platform Product Manager | Multi-agent orchestration pipelines for real-world automation. | ⚙️ In Progress |
+| [**Euro Multi-Agent Voice Trip Planner**](https://github.com/VedR9/euro-multiagent-trip-planner) | Platform Product Manager | Voice + chat **multi-agent** Europe trip planner (Profiler → Researcher → Logistics → Reviewer) using **Groq (Whisper/LLM)**, **Gemini**, and **Tavily MCP** for live search; resilient to rate limits with country→city expansion and deterministic fallback. | ✅ Live |
 
 ---
 
