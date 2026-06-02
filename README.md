@@ -40,13 +40,13 @@ I'm a Senior Product Manager with a career defined by data-driven decision-makin
 ## 🛠️ Technical Toolkit
 
 **AI & Agents**
-`RAG Systems` `Multi-Agent Orchestration` `Prompt Engineering` `Groq` `Gemini` `OpenAI`
+`RAG Systems` `Multi-Agent Orchestration` `Prompt Engineering` `MCP` `Tavily MCP` `Whisper` `Groq` `Gemini` `OpenAI`
 
 **PM Frameworks**
 `JTBD` `North Star Metrics` `GTM Strategy` `User Research`
 
 **Stack**
-`Python` `FastAPI` `TypeScript` `Next.js` `Streamlit`
+`Python` `FastAPI` `TypeScript` `Next.js` `Tailwind CSS` `Streamlit`
 
 ---
 
