@@ -30,6 +30,7 @@ I'm a Senior Product Manager with a career defined by data-driven decision-makin
 
 | Project | Role | Impact | Status |
 |---|---|---|---|
+| [**Moodify — Spotify AI Discovery**](https://github.com/VedR9/moodify) | Growth Product Manager | End-to-end PM challenge: 1,978-signal review analysis → user research → root cause → deployed AI feature. Natural language mood input → 7 curated tracks with explainability in <5s via **Groq LLM**. Backed by Discovery Pulse dashboard tracking real-time review sentiment. | ✅ Live |
 | [**Zomato AI Recommendation**](https://github.com/VedR9/ZomatoAIRecommendedTop5Restaurants) | Lead AI Product Manager | Reduced recommendation latency to <3s for 1k+ data points. | ✅ Live |
 | [**Groww Mutual Fund RAG Assistant**](https://github.com/VedR9/groww-mf-rag-assistant) | Technical Product Manager | RAG-powered mutual fund discovery and Q&A assistant. | ✅ Live |
 | [**GROWW PM Analytics Dashboard**](https://github.com/VedR9/GROWW_Weekly_Review_Pulse) | Senior Product Manager | Serverless AI pipeline & zero-maintenance React dashboard featuring Crash Alerts & AI Feature Radar. | ✅ Live |
@@ -43,10 +44,10 @@ I'm a Senior Product Manager with a career defined by data-driven decision-makin
 `RAG Systems` `Multi-Agent Orchestration` `Prompt Engineering` `MCP` `Tavily MCP` `Whisper` `Groq` `Gemini` `OpenAI`
 
 **PM Frameworks**
-`JTBD` `North Star Metrics` `GTM Strategy` `User Research`
+`JTBD` `North Star Metrics` `GTM Strategy` `User Research` `RICE Prioritisation` `A/B Experimentation`
 
 **Stack**
-`Python` `FastAPI` `TypeScript` `Next.js` `Tailwind CSS` `Streamlit`
+`Python` `FastAPI` `TypeScript` `React` `Next.js` `Vite` `Tailwind CSS` `Streamlit`
 
 ---
 
